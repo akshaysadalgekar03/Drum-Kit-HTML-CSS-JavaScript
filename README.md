@@ -14,7 +14,8 @@ This is a virtual drum kit built using HTML, CSS, and JavaScript. It allows you 
 <img  alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-# Demo Video
+![Image](https://github.com/akshaysadalgekar03/Drum-Kit-HTML-CSS-JavaScript/raw/main/Screen%20Shot%202023-06-23%20at%207.13.34%20PM.png)
+
 
 
 
